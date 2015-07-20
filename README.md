@@ -6,6 +6,7 @@ Automatic virtualenv activation
     $ git clone git@github.com:shifr/aenv.git ~/.aenv
     $ export ENVS_DIR="path_to_dir_with_envs" (default = ~/.envs)
     $ echo 'source ~/.aenv/aenv.sh' >> ~/.bashrc (or ~/.zshrc)
+    $ source ~/.bashrc (or ~/.zshrc)
 
 ## Configuration
   You should create config file with list of your projects, one project on line:
